@@ -1,1 +1,2 @@
 "hello from Alan" 
+goodbye from Alan 
